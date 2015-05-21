@@ -1,0 +1,12 @@
+#!/usr/bin/python
+//mapper outputs <ID, length> tuples
+public class LengthCount {
+	public static class Map extends MapReduce implements Mapper<LongWritable, Text, Text, IntWritable> { 
+		private final static IntWritable 
+		private Text samfile = new Text();
+file = ("read sam file");
+8 tabs before length
+}
+
+//reducer outputs <ID, length> tuples for lengths > 1000 
+}
