@@ -18,17 +18,20 @@ for fileName in fileNames:
 
 	fullLines = lines.map(lambda line: [individual, country] + line.split())
 	filteredLines = fullLines.filter(lambda line: abs(int(line[10])) > 1000) #lenlimit
-	groupedLines = filteredLines.groupBy(lambda line: line[2]).collect()
+	groupedLines = filteredLines.groupBy(lambda line: line[2]) #.collect()
+	locationPairs = groupedLines.map(lambda (id, reads): [reads[0][5], reads[1][5]]).collect()
+
+	print locationPairs
+
+#	for (id, reads) in groupedLines:
+#		firstLocation = reads[0][5]
+#		secondLocation = reads[1][5]
+#		print firstLocation + ", " + secondLocation
+
 	# print groupedLines
 
-	unsortedLines = [(id, list(fragments)) for (id, fragments) in groupedLines]
-	
-	for (id, reads) in unsortedLines:
-		firstLocation = reads[0][5]
-		secondLocation = reads[1][5]
-		print firstLocation + ", " + secondLocation
-	
-#	print unsortedLines
+#	unsortedLines = [(id, list(fragments)) for (id, fragments) in groupedLines]
+	#	print unsortedLines
 
 #	sortedLines = sorted([(id, sorted(fragments)) for (id, fragments) in groupedLines])
 #	print sortedLines
