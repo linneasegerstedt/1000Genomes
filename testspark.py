@@ -18,12 +18,12 @@ for fileName in fileNames:
 
 	fullLines = lines.map(lambda line: [individual, country] + line.split())
 	filteredLines = fullLines.filter(lambda line: abs(int(line[10])) > 1000) #lenlimit
-	groupedLines = filteredLines.groupBy(lambda line: line[2]) #.collect()
-	locationPairs = groupedLines.map(lambda (id, reads): [reads[0][5], reads[1][5]]).collect()
 
-	print locationPairs
+	# Doing a collect here might be unnecessary
+	groupedLines = filteredLines.groupBy(lambda line: line[2]).collect()
+	plotData = [([0, reads[1][5]], [reads[0][5], 0]) for (_, reads) in groupedLines]
 
-#	for (id, reads) in groupedLines:
+	print plotData
 #		firstLocation = reads[0][5]
 #		secondLocation = reads[1][5]
 #		print firstLocation + ", " + secondLocation
