@@ -21,6 +21,8 @@ for fileName in fileNames:
 
 	# Doing a collect here might be unnecessary
 	groupedLines = filteredLines.groupBy(lambda line: line[2]).collect()
+	unsortedLines = [(id, list(fragments)) for (id, fragments) in groupedLines]
+
 	plotData = [([0, reads[1][5]], [reads[0][5], 0]) for (_, reads) in groupedLines]
 
 	print plotData
