@@ -1,4 +1,8 @@
 from matplotlib import pyplot
 
-pyplot.plot([0, 200], [300, 0])
-pyplot.show() 
+xData = ([0, 200], [0, 350])
+yData = ([300, 0], [250, 0])
+
+for x, y in xData, yData:
+  pyplot.plot(x, y)
+  pyplot.show() 
