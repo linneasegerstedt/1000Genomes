@@ -22,7 +22,13 @@ for fileName in fileNames:
 	# print groupedLines
 
 	unsortedLines = [(id, list(fragments)) for (id, fragments) in groupedLines]
-	print unsortedLines
+	
+	for (id, reads) in unsortedLines:
+		firstLocation = reads[0][5]
+		secondLocation = reads[1][5]
+		print firstLocation + ", " + secondLocation
+	
+#	print unsortedLines
 
 #	sortedLines = sorted([(id, sorted(fragments)) for (id, fragments) in groupedLines])
 #	print sortedLines
