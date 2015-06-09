@@ -1,0 +1,2 @@
+HG00122.chrom20.ILLUMINA.bwa.GBR.low_coverage.20121211.sam
+NA21127.chrom20.ILLUMINA.bwa.GIH.low_coverage.20130415.sam
