@@ -1,0 +1,13 @@
+Base data set (the only when having only two slaves)
+====================================================
+
+
+
+Weak scaling, four slaves
+=========================
+
+ubuntu@host-10-0-100-202:~/project/1000Genomes$ hdfs dfs -ls /seqdata | more   
+Found 211 items
+
+ubuntu@host-10-0-100-202:~/project/1000Genomes$ hdfs dfs -du -s /seqdata
+436594040213  /seqdata
