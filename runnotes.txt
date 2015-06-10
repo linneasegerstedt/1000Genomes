@@ -1,6 +1,10 @@
 Base data set (the only when having only two slaves)
 ====================================================
 
+Found 101 items
+
+ubuntu@host-10-0-100-213:~/projects/1000Genomes$ hdfs dfs -du -s /seqdata
+215018182309  /seqdata
 
 
 Weak scaling, four slaves
