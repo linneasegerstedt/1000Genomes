@@ -1,0 +1,659 @@
+Initial number of partitions: 2
+
+Added number of partitions for HG00105.chrom20.ILLUMINA.bwa.GBR.low_coverage.20130415.sam: 14
+
+Added number of partitions for HG00113.chrom20.ILLUMINA.bwa.GBR.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG00121.chrom20.ILLUMINA.bwa.GBR.low_coverage.20130415.sam: 14
+
+Added number of partitions for HG00129.chrom20.ILLUMINA.bwa.GBR.low_coverage.20130415.sam: 16
+
+Added number of partitions for HG00139.chrom20.ILLUMINA.bwa.GBR.low_coverage.20130415.sam: 25
+
+Added number of partitions for HG00149.chrom20.ILLUMINA.bwa.GBR.low_coverage.20121211.sam: 16
+
+Added number of partitions for HG00160.chrom20.ILLUMINA.bwa.GBR.low_coverage.20120522.sam: 16
+
+Added number of partitions for HG00180.chrom20.ILLUMINA.bwa.FIN.low_coverage.20120522.sam: 8
+
+Added number of partitions for HG00189.chrom20.ILLUMINA.bwa.FIN.low_coverage.20120522.sam: 8
+
+Added number of partitions for HG00237.chrom20.ILLUMINA.bwa.GBR.low_coverage.20130415.sam: 18
+
+Added number of partitions for HG00246.chrom20.ILLUMINA.bwa.GBR.low_coverage.20120522.sam: 10
+
+Added number of partitions for HG00257.chrom20.ILLUMINA.bwa.GBR.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG00265.chrom20.ILLUMINA.bwa.GBR.low_coverage.20120522.sam: 9
+
+Added number of partitions for HG00274.chrom20.ILLUMINA.bwa.FIN.low_coverage.20120522.sam: 10
+
+Added number of partitions for HG00284.chrom20.ILLUMINA.bwa.FIN.low_coverage.20120522.sam: 11
+
+Added number of partitions for HG00310.chrom20.ILLUMINA.bwa.FIN.low_coverage.20120522.sam: 12
+
+Added number of partitions for HG00323.chrom20.ILLUMINA.bwa.FIN.low_coverage.20120522.sam: 7
+
+Added number of partitions for HG00331.chrom20.ILLUMINA.bwa.FIN.low_coverage.20120522.sam: 14
+
+Added number of partitions for HG00341.chrom20.ILLUMINA.bwa.FIN.low_coverage.20130415.sam: 17
+
+Added number of partitions for HG00351.chrom20.ILLUMINA.bwa.FIN.low_coverage.20130415.sam: 12
+
+Added number of partitions for HG00362.chrom20.ILLUMINA.bwa.FIN.low_coverage.20130415.sam: 14
+
+Added number of partitions for HG00372.chrom20.ILLUMINA.bwa.FIN.low_coverage.20120522.sam: 9
+
+Added number of partitions for HG00382.chrom20.ILLUMINA.bwa.FIN.low_coverage.20130415.sam: 14
+
+Added number of partitions for HG00410.chrom20.ILLUMINA.bwa.CHS.low_coverage.20121211.sam: 23
+
+Added number of partitions for HG00443.chrom20.ILLUMINA.bwa.CHS.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG00458.chrom20.ILLUMINA.bwa.CHS.low_coverage.20130415.sam: 19
+
+Added number of partitions for HG00479.chrom20.ILLUMINA.bwa.CHS.low_coverage.20130415.sam: 24
+
+Added number of partitions for HG00533.chrom20.ILLUMINA.bwa.CHS.low_coverage.20120522.sam: 12
+
+Added number of partitions for HG00554.chrom20.ILLUMINA.bwa.PUR.low_coverage.20120522.sam: 10
+
+Added number of partitions for HG00581.chrom20.ILLUMINA.bwa.CHS.low_coverage.20120522.sam: 12
+
+Added number of partitions for HG00596.chrom20.ILLUMINA.bwa.CHS.low_coverage.20120522.sam: 7
+
+Added number of partitions for HG00614.chrom20.ILLUMINA.bwa.CHS.low_coverage.20120522.sam: 9
+
+Added number of partitions for HG00629.chrom20.ILLUMINA.bwa.CHS.low_coverage.20120522.sam: 9
+
+Added number of partitions for HG00641.chrom20.ILLUMINA.bwa.PUR.low_coverage.20120522.sam: 11
+
+Added number of partitions for HG00663.chrom20.ILLUMINA.bwa.CHS.low_coverage.20120522.sam: 11
+
+Added number of partitions for HG00690.chrom20.ILLUMINA.bwa.CHS.low_coverage.20120522.sam: 11
+
+Added number of partitions for HG00705.chrom20.ILLUMINA.bwa.CHS.low_coverage.20120522.sam: 12
+
+Added number of partitions for HG00733.chrom20.ILLUMINA.bwa.PUR.low_coverage.20130415.sam: 47
+
+Added number of partitions for HG00759.chrom20.ILLUMINA.bwa.CDX.low_coverage.20130415.sam: 18
+
+Added number of partitions for HG00956.chrom20.ILLUMINA.bwa.CDX.low_coverage.20130415.sam: 17
+
+Added number of partitions for HG01048.chrom20.ILLUMINA.bwa.PUR.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG01061.chrom20.ILLUMINA.bwa.PUR.low_coverage.20120522.sam: 16
+
+Added number of partitions for HG01073.chrom20.ILLUMINA.bwa.PUR.low_coverage.20120522.sam: 15
+
+Added number of partitions for HG01086.chrom20.ILLUMINA.bwa.PUR.low_coverage.20130415.sam: 18
+
+Added number of partitions for HG01101.chrom20.ILLUMINA.bwa.PUR.low_coverage.20120522.sam: 27
+
+Added number of partitions for HG01112.chrom20.ILLUMINA.bwa.CLM.low_coverage.20120522.sam: 10
+
+Added number of partitions for HG01131.chrom20.ILLUMINA.bwa.CLM.low_coverage.20130415.sam: 18
+
+Added number of partitions for HG01148.chrom20.ILLUMINA.bwa.CLM.low_coverage.20120522.sam: 9
+
+Added number of partitions for HG01171.chrom20.ILLUMINA.bwa.PUR.low_coverage.20120522.sam: 12
+
+Added number of partitions for HG01188.chrom20.ILLUMINA.bwa.PUR.low_coverage.20120522.sam: 18
+
+Added number of partitions for HG01241.chrom20.ILLUMINA.bwa.PUR.low_coverage.20120522.sam: 23
+
+Added number of partitions for HG01256.chrom20.ILLUMINA.bwa.CLM.low_coverage.20130415.sam: 15
+
+Added number of partitions for HG01277.chrom20.ILLUMINA.bwa.CLM.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG01308.chrom20.ILLUMINA.bwa.PUR.low_coverage.20130415.sam: 11
+
+Added number of partitions for HG01342.chrom20.ILLUMINA.bwa.CLM.low_coverage.20120522.sam: 16
+
+Added number of partitions for HG01356.chrom20.ILLUMINA.bwa.CLM.low_coverage.20120522.sam: 9
+
+Added number of partitions for HG01369.chrom20.ILLUMINA.bwa.CLM.low_coverage.20130415.sam: 19
+
+Added number of partitions for HG01389.chrom20.ILLUMINA.bwa.CLM.low_coverage.20120522.sam: 11
+
+Added number of partitions for HG01403.chrom20.ILLUMINA.bwa.PUR.low_coverage.20130415.sam: 18
+
+Added number of partitions for HG01437.chrom20.ILLUMINA.bwa.CLM.low_coverage.20120522.sam: 13
+
+Added number of partitions for HG01456.chrom20.ILLUMINA.bwa.CLM.low_coverage.20120522.sam: 9
+
+Added number of partitions for HG01479.chrom20.ILLUMINA.bwa.CLM.low_coverage.20130415.sam: 11
+
+Added number of partitions for HG01495.chrom20.ILLUMINA.bwa.CLM.low_coverage.20120522.sam: 14
+
+Added number of partitions for HG01507.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 12
+
+Added number of partitions for HG01519.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 9
+
+Added number of partitions for HG01531.chrom20.ILLUMINA.bwa.IBS.low_coverage.20130415.sam: 14
+
+Added number of partitions for HG01571.chrom20.ILLUMINA.bwa.PEL.low_coverage.20120522.sam: 10
+
+Added number of partitions for HG01595.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 10
+
+Added number of partitions for HG01605.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 9
+
+Added number of partitions for HG01617.chrom20.ILLUMINA.bwa.IBS.low_coverage.20130415.sam: 16
+
+Added number of partitions for HG01628.chrom20.ILLUMINA.bwa.IBS.low_coverage.20130415.sam: 14
+
+Added number of partitions for HG01673.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 13
+
+Added number of partitions for HG01685.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 13
+
+Added number of partitions for HG01704.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 17
+
+Added number of partitions for HG01756.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 28
+
+Added number of partitions for HG01770.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 25
+
+Added number of partitions for HG01783.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 19
+
+Added number of partitions for HG01795.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 16
+
+Added number of partitions for HG01804.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 13
+
+Added number of partitions for HG01812.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 14
+
+Added number of partitions for HG01843.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 13
+
+Added number of partitions for HG01851.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 15
+
+Added number of partitions for HG01861.chrom20.ILLUMINA.bwa.KHV.low_coverage.20130415.sam: 16
+
+Added number of partitions for HG01869.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 15
+
+Added number of partitions for HG01880.chrom20.ILLUMINA.bwa.ACB.low_coverage.20120522.sam: 13
+
+Added number of partitions for HG01893.chrom20.ILLUMINA.bwa.PEL.low_coverage.20120522.sam: 13
+
+Added number of partitions for HG01920.chrom20.ILLUMINA.bwa.PEL.low_coverage.20120522.sam: 15
+
+Added number of partitions for HG01935.chrom20.ILLUMINA.bwa.PEL.low_coverage.20120522.sam: 19
+
+Added number of partitions for HG01947.chrom20.ILLUMINA.bwa.PEL.low_coverage.20120522.sam: 18
+
+Added number of partitions for HG01961.chrom20.ILLUMINA.bwa.PEL.low_coverage.20121211.sam: 9
+
+Added number of partitions for HG01976.chrom20.ILLUMINA.bwa.PEL.low_coverage.20120522.sam: 26
+
+Added number of partitions for HG01988.chrom20.ILLUMINA.bwa.ACB.low_coverage.20130415.sam: 8
+
+Added number of partitions for HG02006.chrom20.ILLUMINA.bwa.PEL.low_coverage.20130415.sam: 18
+
+Added number of partitions for HG02017.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 11
+
+Added number of partitions for HG02029.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 18
+
+Added number of partitions for HG02049.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 19
+
+Added number of partitions for HG02060.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 12
+
+Added number of partitions for HG02075.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 27
+
+Added number of partitions for HG02086.chrom20.ILLUMINA.bwa.KHV.low_coverage.20130415.sam: 17
+
+Added number of partitions for HG02105.chrom20.ILLUMINA.bwa.PEL.low_coverage.20130415.sam: 13
+
+Added number of partitions for HG02127.chrom20.ILLUMINA.bwa.KHV.low_coverage.20130415.sam: 14
+
+Added number of partitions for HG02138.chrom20.ILLUMINA.bwa.KHV.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG02147.chrom20.ILLUMINA.bwa.PEL.low_coverage.20120522.sam: 14
+
+Added number of partitions for HG02164.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 11
+
+Added number of partitions for HG02184.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 10
+
+Added number of partitions for HG02220.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 11
+
+Added number of partitions for HG02235.chrom20.ILLUMINA.bwa.IBS.low_coverage.20120522.sam: 12
+
+Added number of partitions for HG02256.chrom20.ILLUMINA.bwa.ACB.low_coverage.20120522.sam: 12
+
+Added number of partitions for HG02274.chrom20.ILLUMINA.bwa.PEL.low_coverage.20121211.sam: 18
+
+Added number of partitions for HG02285.chrom20.ILLUMINA.bwa.PEL.low_coverage.20130415.sam: 19
+
+Added number of partitions for HG02307.chrom20.ILLUMINA.bwa.ACB.low_coverage.20120522.sam: 14
+
+Added number of partitions for HG02322.chrom20.ILLUMINA.bwa.ACB.low_coverage.20120522.sam: 13
+
+Added number of partitions for HG02343.chrom20.ILLUMINA.bwa.ACB.low_coverage.20120522.sam: 18
+
+Added number of partitions for HG02363.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 15
+
+Added number of partitions for HG02377.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 14
+
+Added number of partitions for HG02386.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 14
+
+Added number of partitions for HG02395.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 14
+
+Added number of partitions for HG02407.chrom20.ILLUMINA.bwa.CDX.low_coverage.20120522.sam: 14
+
+Added number of partitions for HG02429.chrom20.ILLUMINA.bwa.ACB.low_coverage.20120522.sam: 27
+
+Added number of partitions for HG02461.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 21
+
+Added number of partitions for HG02479.chrom20.ILLUMINA.bwa.ACB.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG02494.chrom20.ILLUMINA.bwa.PJL.low_coverage.20130415.sam: 15
+
+Added number of partitions for HG02512.chrom20.ILLUMINA.bwa.KHV.low_coverage.20120522.sam: 17
+
+Added number of partitions for HG02546.chrom20.ILLUMINA.bwa.ACB.low_coverage.20130415.sam: 16
+
+Added number of partitions for HG02568.chrom20.ILLUMINA.bwa.GWD.low_coverage.20130415.sam: 17
+
+Added number of partitions for HG02583.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 20
+
+Added number of partitions for HG02600.chrom20.ILLUMINA.bwa.PJL.low_coverage.20121211.sam: 21
+
+Added number of partitions for HG02620.chrom20.ILLUMINA.bwa.GWD.low_coverage.20130415.sam: 21
+
+Added number of partitions for HG02642.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 18
+
+Added number of partitions for HG02654.chrom20.ILLUMINA.bwa.PJL.low_coverage.20121211.sam: 21
+
+Added number of partitions for HG02675.chrom20.ILLUMINA.bwa.GWD.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG02687.chrom20.ILLUMINA.bwa.PJL.low_coverage.20121211.sam: 21
+
+Added number of partitions for HG02700.chrom20.ILLUMINA.bwa.PJL.low_coverage.20130415.sam: 16
+
+Added number of partitions for HG02725.chrom20.ILLUMINA.bwa.PJL.low_coverage.20121211.sam: 22
+
+Added number of partitions for HG02756.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 21
+
+Added number of partitions for HG02772.chrom20.ILLUMINA.bwa.GWD.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG02787.chrom20.ILLUMINA.bwa.PJL.low_coverage.20121211.sam: 20
+
+Added number of partitions for HG02805.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 19
+
+Added number of partitions for HG02817.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 11
+
+Added number of partitions for HG02852.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG02881.chrom20.ILLUMINA.bwa.GWD.low_coverage.20130415.sam: 20
+
+Added number of partitions for HG02895.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG02946.chrom20.ILLUMINA.bwa.ESN.low_coverage.20121211.sam: 19
+
+Added number of partitions for HG02974.chrom20.ILLUMINA.bwa.ESN.low_coverage.20130415.sam: 21
+
+Added number of partitions for HG03007.chrom20.ILLUMINA.bwa.BEB.low_coverage.20130415.sam: 25
+
+Added number of partitions for HG03022.chrom20.ILLUMINA.bwa.PJL.low_coverage.20130415.sam: 9
+
+Added number of partitions for HG03046.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 19
+
+Added number of partitions for HG03060.chrom20.ILLUMINA.bwa.MSL.low_coverage.20130415.sam: 17
+
+Added number of partitions for HG03074.chrom20.ILLUMINA.bwa.MSL.low_coverage.20130415.sam: 17
+
+Added number of partitions for HG03086.chrom20.ILLUMINA.bwa.MSL.low_coverage.20130415.sam: 16
+
+Added number of partitions for HG03103.chrom20.ILLUMINA.bwa.ESN.low_coverage.20130415.sam: 17
+
+Added number of partitions for HG03117.chrom20.ILLUMINA.bwa.ESN.low_coverage.20121211.sam: 18
+
+Added number of partitions for HG03129.chrom20.ILLUMINA.bwa.ESN.low_coverage.20121211.sam: 15
+
+Added number of partitions for HG03159.chrom20.ILLUMINA.bwa.ESN.low_coverage.20121211.sam: 11
+
+Added number of partitions for HG03175.chrom20.ILLUMINA.bwa.ESN.low_coverage.20130415.sam: 15
+
+Added number of partitions for HG03202.chrom20.ILLUMINA.bwa.ESN.low_coverage.20130415.sam: 19
+
+Added number of partitions for HG03235.chrom20.ILLUMINA.bwa.PJL.low_coverage.20121211.sam: 13
+
+Added number of partitions for HG03259.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 21
+
+Added number of partitions for HG03291.chrom20.ILLUMINA.bwa.ESN.low_coverage.20121211.sam: 10
+
+Added number of partitions for HG03304.chrom20.ILLUMINA.bwa.ESN.low_coverage.20130415.sam: 13
+
+Added number of partitions for HG03363.chrom20.ILLUMINA.bwa.ESN.low_coverage.20130415.sam: 8
+
+Added number of partitions for HG03380.chrom20.ILLUMINA.bwa.MSL.low_coverage.20121211.sam: 10
+
+Added number of partitions for HG03410.chrom20.ILLUMINA.bwa.MSL.low_coverage.20121211.sam: 14
+
+Added number of partitions for HG03442.chrom20.ILLUMINA.bwa.MSL.low_coverage.20121211.sam: 13
+
+Added number of partitions for HG03458.chrom20.ILLUMINA.bwa.MSL.low_coverage.20121211.sam: 18
+
+Added number of partitions for HG03476.chrom20.ILLUMINA.bwa.MSL.low_coverage.20121211.sam: 21
+
+Added number of partitions for HG03499.chrom20.ILLUMINA.bwa.ESN.low_coverage.20130415.sam: 19
+
+Added number of partitions for HG03538.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG03563.chrom20.ILLUMINA.bwa.MSL.low_coverage.20121211.sam: 20
+
+Added number of partitions for HG03583.chrom20.ILLUMINA.bwa.MSL.low_coverage.20121211.sam: 16
+
+Added number of partitions for HG03603.chrom20.ILLUMINA.bwa.BEB.low_coverage.20130415.sam: 15
+
+Added number of partitions for HG03625.chrom20.ILLUMINA.bwa.PJL.low_coverage.20130415.sam: 21
+
+Added number of partitions for HG03644.chrom20.ILLUMINA.bwa.STU.low_coverage.20130415.sam: 26
+
+Added number of partitions for HG03667.chrom20.ILLUMINA.bwa.PJL.low_coverage.20130415.sam: 15
+
+Added number of partitions for HG03685.chrom20.ILLUMINA.bwa.STU.low_coverage.20130415.sam: 21
+
+Added number of partitions for HG03694.chrom20.ILLUMINA.bwa.STU.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG03706.chrom20.ILLUMINA.bwa.PJL.low_coverage.20130415.sam: 11
+
+Added number of partitions for HG03717.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130415.sam: 19
+
+Added number of partitions for HG03733.chrom20.ILLUMINA.bwa.STU.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG03745.chrom20.ILLUMINA.bwa.STU.low_coverage.20121211.sam: 13
+
+Added number of partitions for HG03757.chrom20.ILLUMINA.bwa.STU.low_coverage.20130415.sam: 27
+
+Added number of partitions for HG03773.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130422.sam: 25
+
+Added number of partitions for HG03782.chrom20.ILLUMINA.bwa.ITU.low_coverage.20121211.sam: 13
+
+Added number of partitions for HG03792.chrom20.ILLUMINA.bwa.ITU.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG03809.chrom20.ILLUMINA.bwa.BEB.low_coverage.20121211.sam: 11
+
+Added number of partitions for HG03826.chrom20.ILLUMINA.bwa.BEB.low_coverage.20121211.sam: 14
+
+Added number of partitions for HG03844.chrom20.ILLUMINA.bwa.STU.low_coverage.20130415.sam: 25
+
+Added number of partitions for HG03857.chrom20.ILLUMINA.bwa.STU.low_coverage.20130415.sam: 18
+
+Added number of partitions for HG03868.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130415.sam: 12
+
+Added number of partitions for HG03882.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130422.sam: 21
+
+Added number of partitions for HG03895.chrom20.ILLUMINA.bwa.STU.low_coverage.20121211.sam: 11
+
+Added number of partitions for HG03907.chrom20.ILLUMINA.bwa.BEB.low_coverage.20121211.sam: 17
+
+Added number of partitions for HG03919.chrom20.ILLUMINA.bwa.BEB.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG03937.chrom20.ILLUMINA.bwa.BEB.low_coverage.20121211.sam: 13
+
+Added number of partitions for HG03949.chrom20.ILLUMINA.bwa.STU.low_coverage.20121211.sam: 14
+
+Added number of partitions for HG03967.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130415.sam: 16
+
+Added number of partitions for HG03978.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130415.sam: 22
+
+Added number of partitions for HG03999.chrom20.ILLUMINA.bwa.STU.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG04018.chrom20.ILLUMINA.bwa.ITU.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG04033.chrom20.ILLUMINA.bwa.STU.low_coverage.20121211.sam: 11
+
+Added number of partitions for HG04059.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130415.sam: 11
+
+Added number of partitions for HG04080.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130415.sam: 11
+
+Added number of partitions for HG04106.chrom20.ILLUMINA.bwa.STU.low_coverage.20130415.sam: 12
+
+Added number of partitions for HG04146.chrom20.ILLUMINA.bwa.BEB.low_coverage.20121211.sam: 12
+
+Added number of partitions for HG04162.chrom20.ILLUMINA.bwa.BEB.low_coverage.20130415.sam: 15
+
+Added number of partitions for HG04183.chrom20.ILLUMINA.bwa.BEB.low_coverage.20130415.sam: 11
+
+Added number of partitions for HG04200.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130415.sam: 18
+
+Added number of partitions for HG04216.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130415.sam: 17
+
+Added number of partitions for HG04239.chrom20.ILLUMINA.bwa.ITU.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA07048.chrom20.ILLUMINA.bwa.CEU.low_coverage.20120522.sam: 12
+
+Added number of partitions for NA11830.chrom20.ILLUMINA.bwa.CEU.low_coverage.20120522.sam: 8
+
+Added number of partitions for NA11894.chrom20.ILLUMINA.bwa.CEU.low_coverage.20130415.sam: 12
+
+Added number of partitions for NA11992.chrom20.ILLUMINA.bwa.CEU.low_coverage.20120522.sam: 18
+
+Added number of partitions for NA12044.chrom20.ILLUMINA.bwa.CEU.low_coverage.20121211.sam: 27
+
+Added number of partitions for NA12234.chrom20.ILLUMINA.bwa.CEU.low_coverage.20130415.sam: 14
+
+Added number of partitions for NA12287.chrom20.ILLUMINA.bwa.CEU.low_coverage.20130415.sam: 11
+
+Added number of partitions for NA12400.chrom20.ILLUMINA.bwa.CEU.low_coverage.20120522.sam: 16
+
+Added number of partitions for NA12748.chrom20.ILLUMINA.bwa.CEU.low_coverage.20130415.sam: 15
+
+Added number of partitions for NA12775.chrom20.ILLUMINA.bwa.CEU.low_coverage.20130415.sam: 20
+
+Added number of partitions for NA12827.chrom20.ILLUMINA.bwa.CEU.low_coverage.20130415.sam: 15
+
+Added number of partitions for NA12874.chrom20.ILLUMINA.bwa.CEU.low_coverage.20130415.sam: 25
+
+Added number of partitions for NA18499.chrom20.ILLUMINA.bwa.YRI.low_coverage.20130415.sam: 25
+
+Added number of partitions for NA18511.chrom20.ILLUMINA.bwa.YRI.low_coverage.20130415.sam: 11
+
+Added number of partitions for NA18526.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 16
+
+Added number of partitions for NA18536.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 18
+
+Added number of partitions for NA18545.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 19
+
+Added number of partitions for NA18555.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 15
+
+Added number of partitions for NA18564.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 21
+
+Added number of partitions for NA18574.chrom20.ILLUMINA.bwa.CHB.low_coverage.20120522.sam: 12
+
+Added number of partitions for NA18596.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA18609.chrom20.ILLUMINA.bwa.CHB.low_coverage.20120522.sam: 7
+
+Added number of partitions for NA18617.chrom20.ILLUMINA.bwa.CHB.low_coverage.20120522.sam: 21
+
+Added number of partitions for NA18625.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 12
+
+Added number of partitions for NA18633.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 22
+
+Added number of partitions for NA18641.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA18740.chrom20.ILLUMINA.bwa.CHB.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA18858.chrom20.ILLUMINA.bwa.YRI.low_coverage.20130415.sam: 11
+
+Added number of partitions for NA18873.chrom20.ILLUMINA.bwa.YRI.low_coverage.20120522.sam: 20
+
+Added number of partitions for NA18908.chrom20.ILLUMINA.bwa.YRI.low_coverage.20120522.sam: 19
+
+Added number of partitions for NA18924.chrom20.ILLUMINA.bwa.YRI.low_coverage.20120522.sam: 12
+
+Added number of partitions for NA18944.chrom20.ILLUMINA.bwa.JPT.low_coverage.20130415.sam: 12
+
+Added number of partitions for NA18952.chrom20.ILLUMINA.bwa.JPT.low_coverage.20130415.sam: 14
+
+Added number of partitions for NA18962.chrom20.ILLUMINA.bwa.JPT.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA18970.chrom20.ILLUMINA.bwa.JPT.low_coverage.20120522.sam: 10
+
+Added number of partitions for NA18978.chrom20.ILLUMINA.bwa.JPT.low_coverage.20130415.sam: 15
+
+Added number of partitions for NA18986.chrom20.ILLUMINA.bwa.JPT.low_coverage.20120522.sam: 35
+
+Added number of partitions for NA18994.chrom20.ILLUMINA.bwa.JPT.low_coverage.20130415.sam: 13
+
+Added number of partitions for NA19003.chrom20.ILLUMINA.bwa.JPT.low_coverage.20120522.sam: 16
+
+Added number of partitions for NA19012.chrom20.ILLUMINA.bwa.JPT.low_coverage.20120522.sam: 15
+
+Added number of partitions for NA19027.chrom20.ILLUMINA.bwa.LWK.low_coverage.20130415.sam: 16
+
+Added number of partitions for NA19041.chrom20.ILLUMINA.bwa.LWK.low_coverage.20130415.sam: 22
+
+Added number of partitions for NA19059.chrom20.ILLUMINA.bwa.JPT.low_coverage.20120522.sam: 14
+
+Added number of partitions for NA19068.chrom20.ILLUMINA.bwa.JPT.low_coverage.20120522.sam: 33
+
+Added number of partitions for NA19079.chrom20.ILLUMINA.bwa.JPT.low_coverage.20120522.sam: 12
+
+Added number of partitions for NA19087.chrom20.ILLUMINA.bwa.JPT.low_coverage.20120522.sam: 20
+
+Added number of partitions for NA19096.chrom20.ILLUMINA.bwa.YRI.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA19116.chrom20.ILLUMINA.bwa.YRI.low_coverage.20120522.sam: 11
+
+Added number of partitions for NA19137.chrom20.ILLUMINA.bwa.YRI.low_coverage.20130415.sam: 14
+
+Added number of partitions for NA19152.chrom20.ILLUMINA.bwa.YRI.low_coverage.20120522.sam: 25
+
+Added number of partitions for NA19185.chrom20.ILLUMINA.bwa.YRI.low_coverage.20130415.sam: 18
+
+Added number of partitions for NA19206.chrom20.ILLUMINA.bwa.YRI.low_coverage.20130415.sam: 18
+
+Added number of partitions for NA19225.chrom20.ILLUMINA.bwa.YRI.low_coverage.20130415.sam: 15
+
+Added number of partitions for NA19256.chrom20.ILLUMINA.bwa.YRI.low_coverage.20130415.sam: 14
+
+Added number of partitions for NA19313.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 12
+
+Added number of partitions for NA19321.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 9
+
+Added number of partitions for NA19338.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 15
+
+Added number of partitions for NA19374.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 11
+
+Added number of partitions for NA19384.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 10
+
+Added number of partitions for NA19399.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 11
+
+Added number of partitions for NA19434.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 12
+
+Added number of partitions for NA19445.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 22
+
+Added number of partitions for NA19456.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 6
+
+Added number of partitions for NA19471.chrom20.ILLUMINA.bwa.LWK.low_coverage.20120522.sam: 21
+
+Added number of partitions for NA19651.chrom20.ILLUMINA.bwa.MXL.low_coverage.20120522.sam: 13
+
+Added number of partitions for NA19663.chrom20.ILLUMINA.bwa.MXL.low_coverage.20120522.sam: 16
+
+Added number of partitions for NA19681.chrom20.ILLUMINA.bwa.MXL.low_coverage.20120522.sam: 14
+
+Added number of partitions for NA19707.chrom20.ILLUMINA.bwa.ASW.low_coverage.20120522.sam: 21
+
+Added number of partitions for NA19722.chrom20.ILLUMINA.bwa.MXL.low_coverage.20120522.sam: 11
+
+Added number of partitions for NA19734.chrom20.ILLUMINA.bwa.MXL.low_coverage.20130415.sam: 16
+
+Added number of partitions for NA19752.chrom20.ILLUMINA.bwa.MXL.low_coverage.20130415.sam: 18
+
+Added number of partitions for NA19770.chrom20.ILLUMINA.bwa.MXL.low_coverage.20120522.sam: 10
+
+Added number of partitions for NA19782.chrom20.ILLUMINA.bwa.MXL.low_coverage.20120522.sam: 19
+
+Added number of partitions for NA19795.chrom20.ILLUMINA.bwa.MXL.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA19908.chrom20.ILLUMINA.bwa.ASW.low_coverage.20120522.sam: 14
+
+Added number of partitions for NA19922.chrom20.ILLUMINA.bwa.ASW.low_coverage.20130415.sam: 18
+
+Added number of partitions for NA20276.chrom20.ILLUMINA.bwa.ASW.low_coverage.20120522.sam: 9
+
+Added number of partitions for NA20296.chrom20.ILLUMINA.bwa.ASW.low_coverage.20120522.sam: 10
+
+Added number of partitions for NA20322.chrom20.ILLUMINA.bwa.ASW.low_coverage.20120522.sam: 11
+
+Added number of partitions for NA20344.chrom20.ILLUMINA.bwa.ASW.low_coverage.20120522.sam: 10
+
+Added number of partitions for NA20362.chrom20.ILLUMINA.bwa.ASW.low_coverage.20130415.sam: 13
+
+Added number of partitions for NA20508.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130415.sam: 14
+
+Added number of partitions for NA20516.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA20525.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA20533.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130415.sam: 13
+
+Added number of partitions for NA20542.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA20588.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130415.sam: 23
+
+Added number of partitions for NA20758.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130422.sam: 19
+
+Added number of partitions for NA20766.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130422.sam: 17
+
+Added number of partitions for NA20774.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130415.sam: 13
+
+Added number of partitions for NA20792.chrom20.ILLUMINA.bwa.TSI.low_coverage.20120522.sam: 9
+
+Added number of partitions for NA20802.chrom20.ILLUMINA.bwa.TSI.low_coverage.20120522.sam: 8
+
+Added number of partitions for NA20810.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130415.sam: 16
+
+Added number of partitions for NA20821.chrom20.ILLUMINA.bwa.TSI.low_coverage.20130415.sam: 15
+
+Added number of partitions for NA20847.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 9
+
+Added number of partitions for NA20858.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 9
+
+Added number of partitions for NA20868.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 15
+
+Added number of partitions for NA20877.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 9
+
+Added number of partitions for NA20888.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 16
+
+Added number of partitions for NA20896.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 18
+
+Added number of partitions for NA20904.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 20
+
+Added number of partitions for NA21088.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 15
+
+Added number of partitions for NA21097.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 11
+
+Added number of partitions for NA21105.chrom20.ILLUMINA.bwa.GIH.low_coverage.20130415.sam: 17
+
+Added number of partitions for NA21113.chrom20.ILLUMINA.bwa.GIH.low_coverage.20130415.sam: 15
+
+Added number of partitions for NA21122.chrom20.ILLUMINA.bwa.GIH.low_coverage.20120522.sam: 7
+
+Added number of partitions for NA21130.chrom20.ILLUMINA.bwa.GIH.low_coverage.20130415.sam: 16
+
+SAS
+Total count: 285505417
+Filtered count: 48272
+Share: 0.000169075601112
+
+EAS
+Total count: 308379541
+Filtered count: 62974
+Share: 0.000204209396628
+
+AMR
+Total count: 225048612
+Filtered count: 40846
+Share: 0.000181498564408
+
+AFR
+Total count: 382710775
+Filtered count: 76110
+Share: 0.000198870805245
+
+EUR
+Total count: 277738635
+Filtered count: 68228
+Share: 0.000245655416287
+

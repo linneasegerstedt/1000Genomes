@@ -15,3 +15,12 @@ Found 211 items
 
 ubuntu@host-10-0-100-202:~/project/1000Genomes$ hdfs dfs -du -s /seqdata
 436594040213  /seqdata
+
+
+Weak scaling, six slaves
+========================
+
+Found 316 items
+
+ubuntu@host-10-0-100-213:~/projects/1000Genomes$ hdfs dfs -du -s /seqdata
+641186918338  /seqdata
